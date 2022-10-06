@@ -10,6 +10,7 @@ keywords:
 author: Yangyang
 language: en
 timezone: ''
+avatar: E:\Yang\Blog\Yang Blog\source\_img\自画像.jpg
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -97,9 +98,12 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-jelly
+theme: jelly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+
+github: IceMiaoMiao
